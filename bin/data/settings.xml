@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<group>
+	<Server_Address>http://shielded-anchorage-21906.herokuapp.com/</Server_Address>
+	<Server_Status>errored</Server_Status>
+	<Arduino_port>COM3</Arduino_port>
+</group>
